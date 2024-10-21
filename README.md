@@ -6,7 +6,8 @@ This script was mase using Python 3.9.8.
 
 
 # How to use
-You can either use the .py script with Python or use the .exe export made using pyinstaller: https://pyinstaller.org/en/stable/
+You can either use the .py script with Python or use the .exe export made using pyinstaller ( https://pyinstaller.org/en/stable/ )
+
 You need to download NirCmd to make this script work: https://www.nirsoft.net/utils/nircmd.html
 
 The **.exe** *(or the **.py**)* and the **.json** file must be put in the same directory of SpideyPC.exe.
