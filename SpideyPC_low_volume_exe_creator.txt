@@ -1,1 +1,1 @@
-pyinstaller.exe .\SpideyPC_low_audio.py --onefile
+pyinstaller.exe .\SpideyPC_low_volume.py --onefile
