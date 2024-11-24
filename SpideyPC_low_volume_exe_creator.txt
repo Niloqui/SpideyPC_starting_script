@@ -1,1 +1,0 @@
-pyinstaller.exe .\SpideyPC_low_volume.py --onefile
