@@ -19,9 +19,9 @@ All the variables are in the **.bat** file. Open the file with any text editor t
 Here is a description of all the configurations in *SpideyPC_starting_script.bat*:
 - **nircmd_path**: Path to NirCmd .exe file. Default: *my path, so please set this correctly for yourself*
 - **sleep_time**: Time before the volume gets lowered (in seconds). Without this value, the script doesn't work. Default: *5*
-- **set_volume**: If true, the script will lower the volume of the game. Default: *true*
+- **set_volume**: If true, the script will lower the volume of the game. Default: *true*
 - **volume**: The volume that the game will use. Values can go from 0 to 1. Default: *0.10*
-- **set_position**: If true, the script will move the game window. Default: *true*
+- **set_position**: If true, the script will move the game window. Default: *true*
 - **position_x** and **position_y**: Where the game will be at the end of the script. These values referes to the position of the top left corner of the window. Default: *320* and *30*
 - **window_width** and **window_height**: These two values are only needed for the nircmd command to work, dgVoodoo will determine the game resolution. Default: *1280* and *960*
 - **keep_window_open**: Keep the command prompt window open at the end. Default: *false*
